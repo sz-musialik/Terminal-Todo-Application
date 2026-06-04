@@ -1,0 +1,17 @@
+# Executables
+*.exe
+*.out
+
+# Objects
+*.o
+*.obj
+
+# Libraries
+*.so
+*.a
+*.dll
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
